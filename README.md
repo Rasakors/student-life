@@ -1,6 +1,6 @@
 # student-life
 
-Project Name - Daily Routine
+Project Name - Student Life (Daily Routine)
 Project Description: what is the project, what is the overall concept and theme, and what kind of experience you were striving to create.
 
   The general idea was to present a sound presentation of a person's daily routine and what would they go through during the day. From a loud morning alarm, to brushing teeth. Then, according to those sounds, we would create illustrations to match and that it would be possible to navigate the website according to the sounds. I am happy that after discussing it with Hamad, he agreed on the black and white concept on the website, and when it would come time to move on, an object that made a sound would light up to press on. It should flow smoothly, and create a sense that the viewer of the website was in the skin of the person experiencing the sounds.
